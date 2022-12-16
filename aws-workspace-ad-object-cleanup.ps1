@@ -1,5 +1,5 @@
 <#
- * Version: 1.0 2022-12-15 Initial Script - LyonsT
+ * Version: 1.0 2022-12-15 Initial Script
  * PowerShell script to compare current AWS workspaces against the AWS OU in AD and prompts to delete stale objects
  * from AD. See script comments for details.
  * 
